@@ -106,8 +106,7 @@ If you'd like to discuss this project or collaboration opportunities:
 Aryan Bhatnagar
 📞 +91 9888055994
 ✉️ aryanmain69@gmail.com
-🌐 LinkedIn
-💻 GitHub   
+🌐 LinkedIn(https://www.linkedin.com/in/aryan-bhatnagar-0146b1170/)  
 
 
    
