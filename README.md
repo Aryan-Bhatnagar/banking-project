@@ -87,7 +87,27 @@ It automates everything from infrastructure creation to deployment and monitorin
 6. **Monitor everything:**
    Prometheus: http://<Monitoring-VM-IP>:9090
    Grafana: http://<Monitoring-VM-IP>:3000
-   Jenkins will build code, create Docker image, push to Docker Hub, and deploy to Production VM.
+
+---
+
+## 📊 Results
+
+✅ Reduced infrastructure setup time by 80%
+✅ Achieved fully automated build & deploy pipeline
+✅ Real-time monitoring and alerting with Prometheus & Grafana
+✅ Increased deployment frequency from weekly → daily
+
+---
+
+## 📫 Contact
+
+If you'd like to discuss this project or collaboration opportunities:
+
+Aryan Bhatnagar
+📞 +91 9888055994
+✉️ aryanmain69@gmail.com
+🌐 LinkedIn
+💻 GitHub   
 
 
    
