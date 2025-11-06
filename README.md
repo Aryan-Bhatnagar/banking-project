@@ -66,3 +66,28 @@ It automates everything from infrastructure creation to deployment and monitorin
    ```bash
    git clone https://github.com/Aryan-Bhatnagar/banking-project.git
    cd banking-project
+   
+2. **Provision AWS infrastructure using Terraform:**
+   ```bash
+   giterraform init
+   terraform plan
+   terraform apply
+   
+3. **Configure servers with Ansible:**
+   ```bash
+   gansible-playbook setup.yml -i inventory
+   
+4. **Setup Jenkins:**
+   Access Jenkins at http://<Master-VM-IP>:8080
+   Configure pipeline with GitHub webhook.
+
+5. **Run the pipeline:**
+   Jenkins will build code, create Docker image, push to Docker Hub, and deploy to Production VM.
+   
+6. **Monitor everything:**
+   Prometheus: http://<Monitoring-VM-IP>:9090
+   Grafana: http://<Monitoring-VM-IP>:3000
+   Jenkins will build code, create Docker image, push to Docker Hub, and deploy to Production VM.
+
+
+   
